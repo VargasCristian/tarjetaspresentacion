@@ -57,3 +57,24 @@ body{
     color: #6a6a6a;
     
 }
+
+.card .contenido h3{
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.card.contenido h4{
+    font-weight: 200;
+    margin-bottom: 10px;
+
+}
+.card .contenido a{
+    margin: 4px;
+    font-size: 25px;
+    color: #303C6A;
+    padding: 10px 3% 20px;
+}
+
+.card .contenido a:hover{
+    color: #fbb620;
+}
