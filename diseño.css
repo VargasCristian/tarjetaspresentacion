@@ -35,3 +35,25 @@ body{
     transform: translateY(-3%);
 }
 
+.card img{
+    width: 100%;
+    height: 210px;
+    justify-content: center;
+    align-items: center;
+}
+
+.card img:hover{
+    filter: blur(1px);
+}
+
+.card .contenido{
+    padding: 2em;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.card.contenido ul{
+    font-size: 18px;
+    color: #6a6a6a;
+    
+}
